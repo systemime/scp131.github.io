@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scp131-A on Scp131-A</title>
+    <link>https://scp131.github.io/</link>
+    <description>Recent content in Scp131-A on Scp131-A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://scp131.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://scp131.github.io/about/</guid>
+      <description>&lt;p&gt;我的名字叫做Scp131，是一个来自Scp基金会的c级人员。&lt;/p&gt;
+
+&lt;p&gt;同其他c级人员一样，我也有我的爱好没错就是编程，喜欢使用java，Scp079对这门语言也很感兴趣，我们经常一起讨论😄。&lt;/p&gt;
+
+&lt;p&gt;如果你同样喜欢编程，也喜欢交朋友的话，请留下你的博客地址，我会将博客地址添加到下面👇，期待你的留言。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qfdxz.top/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;抽风运维程序员&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://co0ontty.github.io/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;猝死安全研究员&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, enjoy!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://scp131.github.io/posts/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://scp131.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
